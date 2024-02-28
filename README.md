@@ -1,14 +1,9 @@
-# Radar de tecnologias do Guiabolso
+# Kotzilla Technology Radar
 
-O Tech Radar do Guiabolso é uma lista de tecnologias utilizadas pelas equipes do Guiabolso, separadas por anéis que indicam nosso nível de confiança em tecnologia. Esta lista é atualizada trimestralmente.
+The Kotzilla Tech Radar is a list of technologies used by the Kotzilla teams, separated by rings that indicate our level of confidence in technology.
 
-## Acesso
+#### Attribution
 
-Para acessar o nosso radar, acesse [este link](https://guiabolso.github.io/tech-radar/)
-
-#### Atribuições
-
-A visualização de nosso radar foi originalmente criada por Zalando, sob licença MIT -[Repositório no Github](https://github.com/zalando/tech-radar).
-
-A ideia do Tech Radar foi feita originalmente pela [ThoughtWorks](https://www.thoughtworks.com/radar)
-
+The visualization of our radar was originally created by Zalando, under MIT license - [Github Repository](https://github.com/zalando/tech-radar).
+The idea of the Tech Radar was originally by [ThoughtWorks](https://www.thoughtworks.com/radar).
+Changes were made by [Guiabolso](https://github.com/GuiaBolso/tech-radar) to facilitate entries manipulation with a CSV
